@@ -10,8 +10,8 @@ return {
       {
          name = 'WSL:Ubuntu',
          distribution = 'Ubuntu',
-         username = 'kevin',
-         default_cwd = '/home/kevin',
+         username = 'MegumiKato',
+         default_cwd = '/home/MegumiKato',
          default_prog = { 'fish' },
       },
    },
